@@ -1167,8 +1167,9 @@ a:focus {
 }
 
 .testimonial .testimonial-profile img {
-    width: 80px;
+    width: 100px;
     margin-bottom: -1px;
+    height: 100px;
 }
 
 .testimonial .testimonial-name {
