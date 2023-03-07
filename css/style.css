@@ -251,7 +251,7 @@ a:focus {
 .navbar .navbar-brand {
     margin: 0;
     color: #ffffff;
-    font-size: 45px;
+    font-size: 19px;
     line-height: 0px;
     font-weight: 700;
     letter-spacing: 5px;
@@ -885,6 +885,7 @@ a:focus {
     margin: 0 15px;
     overflow: hidden;
     background: #f3f6ff;
+    height: 705px;
 }
 
 .causes .causes-img {
@@ -956,6 +957,7 @@ a:focus {
 
 .causes .causes-text {
     padding: 0 30px;
+    height: 250px;
 }
 
 .causes .causes-text h3 {
@@ -1316,6 +1318,7 @@ a:focus {
 .event .event-content {
     padding: 30px;
     display: flex;
+    height: 386px;
 }
 
 .event .event-meta {
@@ -1430,6 +1433,7 @@ a:focus {
     margin-bottom: 30px;
     padding-bottom: 30px;
     background: #f3f6ff;
+    height: 600px;
 }
 
 .blog .blog-img {
